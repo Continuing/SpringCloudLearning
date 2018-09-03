@@ -6,4 +6,4 @@ spring:
     username: admin
 
 config:
-  value1: RefreshScope测试 变更
+  value1: RefreshScope测试 配置文件修改
