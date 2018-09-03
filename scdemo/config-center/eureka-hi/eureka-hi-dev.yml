@@ -6,4 +6,4 @@ spring:
     username: admin
 
 config:
-  value1: RefreshScope测试
+  value1: eureka-hi测试refresh
